@@ -14,7 +14,7 @@ You can find projects I've created using various tech stacks on this page.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40px" style="padding-right:10px;"  />
 
-<br /><br />
+<br />
 
 ### 🛠️ Tools
 
@@ -23,13 +23,13 @@ You can find projects I've created using various tech stacks on this page.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40px" style="padding-right:10px;" />
 
-<br /><br />
+<br />
 
 **🧪 Testing Tools**<br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" alt="JUnit" width="40px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="PyTest" width="40px" style="padding-right:10px;" />
 
-<br /><br />
+<br />
 
 **⚙️ Development Tools**<br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40px" style="padding-right:10px;" />
@@ -37,17 +37,18 @@ You can find projects I've created using various tech stacks on this page.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40px" style="padding-right:10px;" />
 
-<br /><br />
+<br />
 
 **🗄️ Databases**<br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL Workbench" width="40px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite Browser" width="40px" style="padding-right:10px;" />
 
-<br /><br />
+<br />
 
 ### 🔨 Current Projects
 
-I'm currently working on a **Java project** that utilizes **JavaFX** and **SQLite** in an **ORM design**.  
+I'm currently working on a **Java project** that utilizes **JavaFX** and **SQLite** 
+### [POS/TAKEAWAY APPLICATION](https://github.com/AlexDownman/Takeaway-Application)
 I'm also learning how to use the **Spring Boot** framework to build robust backend services.
 
 <br />
