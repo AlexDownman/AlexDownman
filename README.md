@@ -25,12 +25,6 @@ You can find projects I've created using various tech stacks on this page.
 
 <br />
 
-**🧪 Testing Tools**<br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" alt="JUnit" width="40px" style="padding-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="PyTest" width="40px" style="padding-right:10px;" />
-
-<br />
-
 **⚙️ Development Tools**<br />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="40px" style="padding-right:10px;" />
