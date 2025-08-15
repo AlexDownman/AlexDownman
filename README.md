@@ -34,9 +34,9 @@ You can find projects I've created using various tech stacks on this page.
 
 ### 🔨 Current Projects
 
-I'm currently working on a **Java project** that utilizes **JavaFX** and **SQLite** 
+I'm currently working on a Backend **Java project** that utilizes **JavaFX** and **SQLite** 
 ### [POS/TAKEAWAY APPLICATION](https://github.com/AlexDownman/Takeaway-Application)
-I'm also learning how to use the **Spring Boot** framework to build robust backend services.
+I'm also learning how to use the **Spring Boot** framework to build backend services.
 
 <br />
 
