@@ -4,7 +4,7 @@
 ### 💻 Computer Science Student at Swansea University
 
 My name is Alex and I'm currently studying Computer Science at Swansea University.  
-You can find projects I've created using various tech stacks on this page.
+You can find projects and mini-projects I've created using various tech stacks on this page.
 
 <br />
 
