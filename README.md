@@ -32,13 +32,6 @@ You can find projects and mini-projects I've created using various tech stacks o
 
 <br />
 
-### 🔨 Current Projects
-
-I'm currently working on a Backend **Java project** that utilizes **SQLite** 
-### [POS/TAKEAWAY APPLICATION](https://github.com/AlexDownman/Takeaway-Application)
-
-<br />
-
 ### 📫 How to reach me
 
 ### downmanalex05@gmail.com
